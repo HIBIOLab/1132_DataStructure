@@ -7,7 +7,7 @@ When the TA is scoring, the evaluation will not only depend on the correctness o
 
 ## Format Instructions
 
-### Lab01 - LeetCode Problem
+### Lab01 - 課堂實作
 - **Task**: Complete the problem on LeetCode and submit the solution to GitHub. Name your repository `1132_DataStructure/Lab01/Lab01_Q1.cpp`.
 - **Submission**: Include the code in the `Lab01-Q1 Program Section` of your report.
 - **Comments**: Make sure to add comments to your code to explain your logic.
